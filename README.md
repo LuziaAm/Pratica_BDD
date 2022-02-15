@@ -1,1 +1,1 @@
-# Pratica_BDD
+# Pratica_BDD com escrita em gherkin. Cenário de Login.
